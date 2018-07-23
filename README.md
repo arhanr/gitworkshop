@@ -20,6 +20,8 @@
 
 [Kristen Petersen](https://github.com/kristenpetersen)
 
+[arhanr](https://github.com/arhanr)
+
 ## materials:
 
 slides [pdf](https://is.gd/git_uidaho)
